@@ -1,2 +1,7 @@
  description: This is a previous version of Arancia 3.
- website: arancia2.github.io
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "arancia313/Arancia-2/github/dependabot.yml"
+    schedule:
+      interval: "weekly"
